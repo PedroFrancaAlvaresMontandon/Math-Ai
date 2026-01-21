@@ -1,0 +1,10 @@
+langchain
+langchain-anthropic
+langchain-core
+anthropic
+python-dotenv
+rich
+pytest
+pytest-cov
+numpy
+langgraph
